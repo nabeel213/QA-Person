@@ -4,7 +4,7 @@ public class Globe {
 	
 	public static void main (String [] args) {
 	
-		Person human1 = new Person ("Nabeel", 23, "Tester");
+		Person human1 = new Person ("Chadbeel", 23, "Tester");
 		Person human2 = new Person ("Godwin", 23, "Developer");
 	
 		ArrayList<Person> aL = new ArrayList<Person>();
